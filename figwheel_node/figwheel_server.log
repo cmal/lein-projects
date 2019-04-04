@@ -1,0 +1,12 @@
+[0mCompiling "out/figwheel_node_repl.js" from ["src"]...[0m
+[31mFailed to compile "out/figwheel_node_repl.js" in 0.277 seconds.[0m
+[36m----  Could not Analyze    ----[0m
+
+  [1mNo such namespace: figwheel-node-repl.core, could not locate figwheel_node_repl/core.cljs, figwheel_node_repl/core.cljc, or Closure namespace "figwheel-node-repl.core"[0m
+
+[36m----  Analysis Error  ----[0m
+[0mCompiling "out/figwheel_node_repl.js" from ["src"]...[0m
+[32mSuccessfully compiled "out/figwheel_node_repl.js" in 0.391 seconds.[0m
+notifying browser that file changed:  out/goog/deps.js
+notifying browser that file changed:  out/cljs_deps.js
+notifying browser that file changed:  out/figwheel_node_repl/core.js
